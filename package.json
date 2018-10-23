@@ -1,0 +1,14 @@
+{
+  "name": "clima",
+  "version": "1.0.0",
+  "description": "Permite obtener el clima de un lugar\r ```\r node app -d lugar\r ```",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.2"
+  }
+}
